@@ -1,0 +1,357 @@
+[09:44:07] [Client thread/INFO]: Setting user: Player65
+[09:44:07] [Client thread/INFO]: (Session ID is token:0:Player65)
+[09:44:12] [Client thread/INFO]: [OptiFine] *** Reflector Forge ***
+[09:44:12] [Client thread/INFO]: [OptiFine] *** Reflector Vanilla ***
+[09:44:12] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.eventhandler.Event$Result
+[09:44:12] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraft.launchwrapper.Launch
+[09:44:12] [Client thread/INFO]: LWJGL Version: 2.9.4
+[09:44:17] [Client thread/INFO]: [OptiFine] 
+[09:44:17] [Client thread/INFO]: [OptiFine] OptiFine_1.8.9_HD_U_M5
+[09:44:17] [Client thread/INFO]: [OptiFine] Build: null
+[09:44:17] [Client thread/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[09:44:17] [Client thread/INFO]: [OptiFine] Java: 1.8.0_202, Oracle Corporation
+[09:44:17] [Client thread/INFO]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[09:44:17] [Client thread/INFO]: [OptiFine] LWJGL: 2.9.4
+[09:44:17] [Client thread/INFO]: [OptiFine] OpenGL: AMD Radeon HD 6410D, version 4.5.13399 Compatibility Profile Context 15.201.1151.0, ATI Technologies Inc.
+[09:44:17] [Client thread/INFO]: [OptiFine] OpenGL Version: 4.5.13399
+[09:44:17] [Client thread/INFO]: [OptiFine] OpenGL Fancy fog: Not available (GL_NV_fog_distance)
+[09:44:18] [Client thread/INFO]: [OptiFine] Maximum texture size: 16384x16384
+[09:44:18] [VersionCheck/INFO]: [OptiFine] Checking for new version
+[09:44:19] [Client thread/INFO]: [Shaders] OpenGL Version: 4.5.13399 Compatibility Profile Context 15.201.1151.0
+[09:44:19] [Client thread/INFO]: [Shaders] Vendor:  ATI Technologies Inc.
+[09:44:19] [Client thread/INFO]: [Shaders] Renderer: AMD Radeon HD 6410D
+[09:44:19] [Client thread/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[09:44:19] [Client thread/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[09:44:19] [Client thread/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[09:44:19] [Client thread/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 18
+[09:44:19] [Client thread/INFO]: [Shaders] Load shaders configuration.
+[09:44:19] [Client thread/INFO]: [Shaders] Save shaders configuration.
+[09:44:19] [Client thread/INFO]: [Shaders] Shaders can not be loaded, Fast Render is enabled.
+[09:44:19] [Client thread/INFO]: [Shaders] No shaderpack loaded.
+[09:44:19] [VersionCheck/INFO]: [OptiFine] Version found: M5
+[09:44:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.Loader
+[09:44:20] [Client thread/INFO]: Reloading ResourceManager: Default
+[09:44:20] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: optifine.OptiFineClassTransformer
+[09:44:21] [Client thread/INFO]: [OptiFine] *** Reloading textures ***
+[09:44:21] [Client thread/INFO]: [OptiFine] Resource packs: Default
+[09:44:21] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.SplashProgress
+[09:44:21] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.Attributes
+[09:44:21] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.renderer.vertex.VertexFormatElement$EnumUsage.preDraw
+[09:44:21] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.renderer.vertex.VertexFormatElement$EnumUsage.postDraw
+[09:44:25] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[09:44:25] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[09:44:25] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[09:44:26] [Thread-6/INFO]: OpenAL initialized.
+[09:44:26] [Sound Library Loader/INFO]: Sound engine started
+[09:45:02] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ForgeHooksClient
+[09:45:13] [Client thread/INFO]: [OptiFine] Mipmap levels: 4
+[09:45:13] [Client thread/INFO]: [OptiFine] Multitexture: false
+[09:45:13] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_pane_white.properties
+[09:45:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_white.properties
+[09:45:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_pane_purple.properties
+[09:45:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_purple.properties
+[09:45:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_blue.properties
+[09:45:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_pane_blue.properties
+[09:45:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_brown.properties
+[09:45:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_pane_brown.properties
+[09:45:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_green.properties
+[09:45:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_pane_green.properties
+[09:45:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_pane_red.properties
+[09:45:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_red.properties
+[09:45:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_black.properties
+[09:45:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_pane_black.properties
+[09:45:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_orange.properties
+[09:45:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_pane_orange.properties
+[09:45:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_magenta.properties
+[09:45:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_pane_magenta.properties
+[09:45:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_light_blue.properties
+[09:45:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_pane_light_blue.properties
+[09:45:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_pane_yellow.properties
+[09:45:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_yellow.properties
+[09:45:15] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_lime.properties
+[09:45:15] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_pane_lime.properties
+[09:45:15] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pane_pink.properties
+[09:45:15] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pink.properties
+[09:45:15] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_gray.properties
+[09:45:15] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_pane_gray.properties
+[09:45:15] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_pane_silver.properties
+[09:45:15] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_silver.properties
+[09:45:15] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_cyan.properties
+[09:45:15] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_pane_cyan.properties
+[09:45:15] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/bookshelf.properties
+[09:45:15] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glass.properties
+[09:45:15] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glasspane.properties
+[09:45:15] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/sandstone.properties
+[09:45:15] [Client thread/INFO]: [OptiFine] Multipass connected textures: false
+[09:45:15] [Client thread/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[09:45:19] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[09:45:19] [Client thread/INFO]: [OptiFine] Animated sprites: 11
+[09:45:20] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.ModelLoader
+[09:45:20] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ItemModelMesherForge
+[09:45:20] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.registry.RenderingRegistry
+[09:45:20] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeModContainer
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.ChunkWatchEvent$UnWatch
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.relauncher.CoreModManager
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.DimensionManager
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Pre
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Post
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$CameraSetup
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$FogColors
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.eventhandler.Event
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.eventhandler.EventBus
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.property.ExtendedBlockState
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.FMLClientHandler
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.FMLCommonHandler
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.biome.BiomeGenBase.getWaterColorMultiplier
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.addDestroyEffects
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.addHitEffects
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.canCreatureSpawn
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.canRenderInLayer
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.doesSideBlockRendering
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.getBedDirection
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.getExtendedState
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.getLightOpacity
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.getLightValue
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.hasTileEntity
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.isAir
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.isBed
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.isBedFoot
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.isSideSolid
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.ChunkCache.isSideSolid
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.entity.Entity.canRiderInteract
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Field not present: net.minecraft.entity.Entity.captureDrops
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Field not present: net.minecraft.entity.Entity.capturedDrops
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.entity.Entity.shouldRenderInPass
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.entity.Entity.shouldRiderSit
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.ForgeEventFactory
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeHooks
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Field not present: net.minecraft.item.Item.delegate
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.item.Item.getDurabilityForDisplay
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.item.Item.getModel
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.item.Item.onEntitySwing
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.item.Item.shouldCauseReequipAnimation
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.item.Item.showDurabilityBar
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.potion.PotionEffect.isCurativeItem
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.tileentity.TileEntity.canRenderBreaking
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.tileentity.TileEntity.getRenderBoundingBox
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.tileentity.TileEntity.hasFastRenderer
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.tileentity.TileEntity.shouldRenderInPass
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.World.countEntities
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.World.getPerWorldStorage
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.WorldProvider.getCloudRenderer
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.WorldProvider.getSkyRenderer
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.WorldProvider.getWeatherRenderer
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.WorldProvider.getSaveFolder
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.GuiModList
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.IColoredBakedQuad
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.property.IExtendedBlockState
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.IModel
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.IRenderHandler
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.pipeline.LightUtil
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.MinecraftForge
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.MinecraftForgeClient
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.ModContainer
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.ModelLoader$VanillaLoader
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderBlockOverlayEvent$OverlayType
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderItemInFrameEvent
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Pre
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Post
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Specials$Pre
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Specials$Post
+[09:45:21] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.WorldEvent$Load
+[09:45:21] [Client thread/INFO]: [OptiFine] *** Reloading custom textures ***
+[09:45:22] [Client thread/INFO]: [OptiFine] Enable face culling: acacia_leaves, birch_leaves, dark_oak_leaves, jungle_leaves, oak_leaves, spruce_leaves
+[09:46:24] [Client thread/INFO]: Reloading ResourceManager: Default
+[09:46:24] [Client thread/INFO]: [OptiFine] *** Reloading textures ***
+[09:46:24] [Client thread/INFO]: [OptiFine] Resource packs: Default
+[09:46:25] [Client thread/INFO]: SoundSystem shutting down...
+[09:46:26] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[09:46:26] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[09:46:26] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[09:46:26] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[09:46:26] [Thread-9/INFO]: OpenAL initialized.
+[09:46:26] [Sound Library Loader/INFO]: Sound engine started
+[09:46:38] [Client thread/INFO]: [OptiFine] Mipmap levels: 4
+[09:46:38] [Client thread/INFO]: [OptiFine] Multitexture: false
+[09:46:38] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_pane_white.properties
+[09:46:38] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_white.properties
+[09:46:38] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_pane_purple.properties
+[09:46:39] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_purple.properties
+[09:46:39] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_blue.properties
+[09:46:39] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_pane_blue.properties
+[09:46:39] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_brown.properties
+[09:46:39] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_pane_brown.properties
+[09:46:39] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_green.properties
+[09:46:39] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_pane_green.properties
+[09:46:39] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_pane_red.properties
+[09:46:39] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_red.properties
+[09:46:39] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_black.properties
+[09:46:39] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_pane_black.properties
+[09:46:39] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_orange.properties
+[09:46:39] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_pane_orange.properties
+[09:46:39] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_magenta.properties
+[09:46:39] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_pane_magenta.properties
+[09:46:39] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_light_blue.properties
+[09:46:39] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_pane_light_blue.properties
+[09:46:39] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_pane_yellow.properties
+[09:46:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_yellow.properties
+[09:46:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_lime.properties
+[09:46:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_pane_lime.properties
+[09:46:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pane_pink.properties
+[09:46:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pink.properties
+[09:46:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_gray.properties
+[09:46:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_pane_gray.properties
+[09:46:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_pane_silver.properties
+[09:46:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_silver.properties
+[09:46:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_cyan.properties
+[09:46:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_pane_cyan.properties
+[09:46:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/bookshelf.properties
+[09:46:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glass.properties
+[09:46:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glasspane.properties
+[09:46:40] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/sandstone.properties
+[09:46:40] [Client thread/INFO]: [OptiFine] Multipass connected textures: false
+[09:46:40] [Client thread/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[09:46:44] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[09:46:44] [Client thread/INFO]: [OptiFine] Animated sprites: 11
+[09:46:44] [Client thread/INFO]: [OptiFine] *** Reloading custom textures ***
+[09:46:45] [Client thread/INFO]: [OptiFine] Enable face culling: acacia_leaves, birch_leaves, dark_oak_leaves, jungle_leaves, oak_leaves, spruce_leaves
+[09:46:45] [Client thread/INFO]: Reloading ResourceManager: Default
+[09:46:45] [Client thread/INFO]: [OptiFine] *** Reloading textures ***
+[09:46:45] [Client thread/INFO]: [OptiFine] Resource packs: Default
+[09:46:46] [Client thread/INFO]: SoundSystem shutting down...
+[09:46:46] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[09:46:46] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[09:46:47] [Thread-11/INFO]: Initializing LWJGL OpenAL
+[09:46:47] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[09:46:47] [Thread-11/INFO]: OpenAL initialized.
+[09:46:47] [Sound Library Loader/INFO]: Sound engine started
+[09:46:51] [Client thread/INFO]: [OptiFine] Mipmap levels: 4
+[09:46:51] [Client thread/INFO]: [OptiFine] Multitexture: false
+[09:46:51] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_pane_white.properties
+[09:46:51] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_white.properties
+[09:46:51] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_pane_purple.properties
+[09:46:52] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_purple.properties
+[09:46:52] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_blue.properties
+[09:46:52] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_pane_blue.properties
+[09:46:52] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_brown.properties
+[09:46:52] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_pane_brown.properties
+[09:46:52] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_green.properties
+[09:46:52] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_pane_green.properties
+[09:46:52] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_pane_red.properties
+[09:46:52] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_red.properties
+[09:46:52] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_black.properties
+[09:46:52] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_pane_black.properties
+[09:46:52] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_orange.properties
+[09:46:52] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_pane_orange.properties
+[09:46:52] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_magenta.properties
+[09:46:52] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_pane_magenta.properties
+[09:46:52] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_light_blue.properties
+[09:46:52] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_pane_light_blue.properties
+[09:46:52] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_pane_yellow.properties
+[09:46:52] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_yellow.properties
+[09:46:53] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_lime.properties
+[09:46:53] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_pane_lime.properties
+[09:46:53] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pane_pink.properties
+[09:46:53] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pink.properties
+[09:46:53] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_gray.properties
+[09:46:53] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_pane_gray.properties
+[09:46:53] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_pane_silver.properties
+[09:46:53] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_silver.properties
+[09:46:53] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_cyan.properties
+[09:46:53] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_pane_cyan.properties
+[09:46:53] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/bookshelf.properties
+[09:46:53] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glass.properties
+[09:46:53] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glasspane.properties
+[09:46:53] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/sandstone.properties
+[09:46:53] [Client thread/INFO]: [OptiFine] Multipass connected textures: false
+[09:46:53] [Client thread/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[09:46:57] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[09:46:57] [Client thread/INFO]: [OptiFine] Animated sprites: 11
+[09:46:57] [Client thread/INFO]: [OptiFine] *** Reloading custom textures ***
+[09:46:57] [Client thread/INFO]: [OptiFine] Enable face culling: acacia_leaves, birch_leaves, dark_oak_leaves, jungle_leaves, oak_leaves, spruce_leaves
+[09:48:39] [Server thread/INFO]: Starting integrated minecraft server version 1.9
+[09:48:39] [Server thread/INFO]: Generating keypair
+[09:48:39] [Server thread/INFO]: Preparing start region for level 0
+[09:48:40] [Server thread/INFO]: Preparing spawn area: 69%
+[09:48:41] [Server thread/INFO]: Changing view distance to 2, from 10
+[09:48:41] [Server thread/INFO]: Player65[local:E:2b870a16] logged in with entity id 82 at (-793.5731653358142, 56.0, -94.94202952899961)
+[09:48:41] [Server thread/INFO]: Player65 加入了游戏
+[09:48:43] [Server thread/INFO]: Saving and pausing game...
+[09:48:43] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[09:48:43] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[09:48:43] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[09:49:46] [Server thread/INFO]: Player65 刚刚获得了 [打开物品栏] 成就！
+[09:49:46] [Client thread/INFO]: [CHAT] Player65 刚刚获得了 [打开物品栏] 成就！
+[09:54:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4449ms behind, skipping 88 tick(s)
+[09:54:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2455ms behind, skipping 49 tick(s)
+[09:55:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13209ms behind, skipping 264 tick(s)
+[09:55:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3792ms behind, skipping 75 tick(s)
+[09:55:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2636ms behind, skipping 52 tick(s)
+[09:56:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4211ms behind, skipping 84 tick(s)
+[09:56:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6844ms behind, skipping 136 tick(s)
+[09:56:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2593ms behind, skipping 51 tick(s)
+[09:56:47] [Client thread/INFO]: [CHAT] 您没有使用此命令的权限
+[09:56:58] [Server thread/INFO]: Saving and pausing game...
+[09:56:59] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[09:56:59] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[09:56:59] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[09:57:04] [Client thread/INFO]: Using default channel type
+[09:57:04] [Client thread/INFO]: Started on 12898
+[09:57:04] [Client thread/INFO]: [CHAT] 本地游戏已在端口 12898 上开启
+[09:57:08] [Client thread/INFO]: [CHAT] 用法：/stats <entity|block> ...
+[09:57:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2023ms behind, skipping 40 tick(s)
+[09:57:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2386ms behind, skipping 47 tick(s)
+[09:58:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3967ms behind, skipping 79 tick(s)
+[09:58:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7004ms behind, skipping 140 tick(s)
+[09:59:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4860ms behind, skipping 97 tick(s)
+[10:11:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2221ms behind, skipping 44 tick(s)
+[10:11:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9124ms behind, skipping 182 tick(s)
+[10:12:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9844ms behind, skipping 196 tick(s)
+[10:12:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8465ms behind, skipping 169 tick(s)
+[10:13:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2373ms behind, skipping 47 tick(s)
+[10:14:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3876ms behind, skipping 77 tick(s)
+[10:14:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5058ms behind, skipping 101 tick(s)
+[10:14:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2999ms behind, skipping 59 tick(s)
+[10:15:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3100ms behind, skipping 62 tick(s)
+[10:15:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5234ms behind, skipping 104 tick(s)
+[10:15:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6937ms behind, skipping 138 tick(s)
+[10:16:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5674ms behind, skipping 113 tick(s)
+[10:16:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2043ms behind, skipping 40 tick(s)
+[10:21:04] [Server thread/INFO]: <Player65> 测试
+[10:21:04] [Client thread/INFO]: [CHAT] <Player65> 测试
+[10:21:14] [Server thread/INFO]: <Player65> 灌灌灌灌
+[10:21:14] [Client thread/INFO]: [CHAT] <Player65> 灌灌灌灌
+[10:21:18] [Server thread/INFO]: <Player65> 锟斤拷
+[10:21:18] [Client thread/INFO]: [CHAT] <Player65> 锟斤拷
+[10:21:33] [Server thread/INFO]: <Player65> 测试超长大概吧一个文本能不能漏掉什么啊
+[10:21:33] [Client thread/INFO]: [CHAT] <Player65> 测试超长大概吧一个文本能不能漏掉什么啊
+[10:23:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3326ms behind, skipping 66 tick(s)
+[10:23:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2765ms behind, skipping 55 tick(s)
+[10:23:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9557ms behind, skipping 191 tick(s)
+[10:24:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7796ms behind, skipping 155 tick(s)
+[10:26:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2940ms behind, skipping 58 tick(s)
+[10:27:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2560ms behind, skipping 51 tick(s)
+[10:27:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4206ms behind, skipping 84 tick(s)
+[10:29:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3563ms behind, skipping 71 tick(s)
+[10:29:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2184ms behind, skipping 43 tick(s)
+[10:30:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2037ms behind, skipping 40 tick(s)
+[10:30:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3420ms behind, skipping 68 tick(s)
+[10:32:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3304ms behind, skipping 66 tick(s)
+[10:32:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2081ms behind, skipping 41 tick(s)
+[10:33:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2499ms behind, skipping 49 tick(s)
+[10:33:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3115ms behind, skipping 62 tick(s)
+[10:34:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2459ms behind, skipping 49 tick(s)
+[10:34:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3702ms behind, skipping 74 tick(s)
+[10:35:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2770ms behind, skipping 55 tick(s)
+[10:35:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2637ms behind, skipping 52 tick(s)
+[10:36:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2642ms behind, skipping 52 tick(s)
+[10:36:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2826ms behind, skipping 56 tick(s)
+[10:37:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2852ms behind, skipping 57 tick(s)
+[10:37:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3307ms behind, skipping 66 tick(s)
+[10:37:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2588ms behind, skipping 51 tick(s)
+[10:38:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2206ms behind, skipping 44 tick(s)
+[10:41:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2318ms behind, skipping 46 tick(s)
+[10:45:01] [Client Shutdown Thread/INFO]: Stopping server
+[10:45:02] [Client Shutdown Thread/INFO]: Saving players
